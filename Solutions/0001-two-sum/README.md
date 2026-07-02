@@ -1,14 +1,34 @@
 # Two Sum
 
-                ## Information
+## Problem
 
-                - Problem ID: 1
-                - Language: java
-                - Runtime: 31 ms
-                - Memory: 47.1 MB
-                - Solved At: 2026-07-02T09:54:08.764Z
+https://leetcode.com/problems/two-sum/submissions/2053479459/
 
-                ## LeetCode
+---
 
-                https://leetcode.com/problems/two-sum/
-                
+## Solution
+
+**Language:** java
+
+**Runtime:** 37 ms
+
+**Memory:** 46.6 MB
+
+---
+
+## Complexity
+
+| Type | Value |
+|------|-------|
+| Time | O(n) |
+| Space | O(n) |
+
+---
+
+## Notes
+
+Nothing
+
+---
+
+Generated automatically using Algo Sync.
