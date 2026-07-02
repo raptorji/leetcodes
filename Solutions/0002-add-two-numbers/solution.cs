@@ -13,7 +13,7 @@ public class Solution {
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {
         return Add(l1, l2, 0);
     }
-
+    //hehe
     private ListNode Add(ListNode l1, ListNode l2, int carry) {
         if (l1 == null && l2 == null && carry == 0) {
             return null;
