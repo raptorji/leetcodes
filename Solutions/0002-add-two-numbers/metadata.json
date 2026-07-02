@@ -3,9 +3,9 @@
     "slug": "add-two-numbers",
     "questionId": "2",
     "language": "csharp",
-    "runtime": "1 ms",
-    "memory": "52.9 MB",
-    "submissionId": "2053413254",
-    "solvedAt": "2026-07-02T10:46:55.962Z",
-    "url": "https://leetcode.com/problems/add-two-numbers/submissions/2053412813/"
+    "runtime": "0 ms",
+    "memory": "53 MB",
+    "submissionId": "2053414040",
+    "solvedAt": "2026-07-02T10:47:44.499Z",
+    "url": "https://leetcode.com/problems/add-two-numbers/"
 }
