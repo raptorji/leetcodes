@@ -2,7 +2,7 @@
 
 ## Problem
 
-https://leetcode.com/problems/two-sum/submissions/2053479459/
+https://leetcode.com/problems/two-sum/
 
 ---
 
@@ -12,7 +12,7 @@ https://leetcode.com/problems/two-sum/submissions/2053479459/
 
 **Runtime:** 37 ms
 
-**Memory:** 46.6 MB
+**Memory:** 47.2 MB
 
 ---
 
@@ -20,14 +20,14 @@ https://leetcode.com/problems/two-sum/submissions/2053479459/
 
 | Type | Value |
 |------|-------|
-| Time | O(n) |
-| Space | O(n) |
+| Time |  |
+| Space |  |
 
 ---
 
 ## Notes
 
-Nothing
+nothing version 2
 
 ---
 
