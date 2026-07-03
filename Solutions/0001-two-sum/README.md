@@ -2,7 +2,7 @@
 
 ## Problem
 
-https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/two-sum/submissions/2054317456/
 
 ---
 
@@ -10,7 +10,7 @@ https://leetcode.com/problems/two-sum/
 
 **Language:** java
 
-**Runtime:** 37 ms
+**Runtime:** 32 ms
 
 **Memory:** 47.2 MB
 
@@ -27,7 +27,7 @@ https://leetcode.com/problems/two-sum/
 
 ## Notes
 
-nothing version 2
+
 
 ---
 
