@@ -3,9 +3,9 @@
     "slug": "two-sum",
     "questionId": "1",
     "language": "java",
-    "runtime": "37 ms",
+    "runtime": "32 ms",
     "memory": "47.2 MB",
-    "submissionId": "2054317456",
-    "solvedAt": "2026-07-03T06:43:32.191Z",
-    "url": "https://leetcode.com/problems/two-sum/"
+    "submissionId": "2054324016",
+    "solvedAt": "2026-07-03T06:48:57.409Z",
+    "url": "https://leetcode.com/problems/two-sum/submissions/2054317456/"
 }
